@@ -12,6 +12,14 @@ This is achieved using [Stable Horde](https://stablehorde.net/), a crowdsourced 
   <img src="https://github.com/aqualxx/stable-ui/blob/main/doc/images_showcase.png" style="width: 100%"/>
 </p>
 
+## Installation on Linux
+
+```
+git clone ...
+cd stable-ui
+npm run dev
+```
+
 ## Features
 
 * 🎨 Image generation utilizing Stable Horde
